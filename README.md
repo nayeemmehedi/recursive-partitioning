@@ -16,26 +16,19 @@ A responsive layout builder built with React.js and Tailwind CSS. This applicati
 
 ## Installation
 
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/your-username/recursive-partitioning.git
-    cd recursive-partitioning
-    ```
-
-2. Install dependencies:
+1. Install dependencies:
 
     ```bash
     npm install
     ```
 
-3. Run the development server:
+2. Run the development server:
 
     ```bash
     npm run dev
     ```
 
-4. Open your browser and navigate to:
+3. Open your browser and navigate to:
 
     ```
     http://localhost:5173/
